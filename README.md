@@ -1,5 +1,7 @@
 # Aul-oAluraAI
-Aula de Imersão em AI - Google AI Studio / AI
+# Aula de Imersão em AI - Google AI Studio / AI
+
+
 import requests
 import random
 
